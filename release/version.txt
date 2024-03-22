@@ -1,5 +1,5 @@
 {
-version : 2.01
+version : 2.01,
 changelog :{
 - Thêm tính năng gõ tiếng Việt sau khi bấm 'cách' tại mục Phương pháp gửi chữ (mặc định là ngay lập tức).
 }
