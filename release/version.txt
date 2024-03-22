@@ -1,3 +1,7 @@
-0.02
-- Thêm tính năng gõ tiếng Việt sau khi bấm 'cách' tại mục Phương pháp gửi chữ (mặc định là ngay lập tức)
-- abcd
+2.01
+- Thêm giao diện quản lí bật / tắt tự động với các app ưu tiên. 
+- Tự động tắt tiếng Việt khi phương thức input của Windows khác ENG (thích hợp khi gõ đa ngôn ngữ).
+- Thêm chức năng kiểm tra cập nhật. 
+- Cải thiện hiệu suất, tối ưu hóa mã nguồn, giảm dung lượng.
+- Gỡ bỏ Delay, gỡ bỏ phương thức gửi phím bằng clipboard. 
+- Sửa lỗi gõ trên thanh địa chỉ Chrome, Excel, App Metro...
