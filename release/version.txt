@@ -1,4 +1,5 @@
-2.01
+2.02
+- Fix lỗi không thể gõ tắt khi vừa xuống dòng.
 - Thêm giao diện quản lí bật / tắt tự động với các app ưu tiên. 
 - Tự động tắt tiếng Việt khi phương thức input của Windows khác ENG (thích hợp khi gõ đa ngôn ngữ).
 - Thêm chức năng kiểm tra cập nhật. 
