@@ -1,4 +1,2 @@
-2.10
-- Tiên đoán từ tiếp theo bằng AI (Alt + ` để hiện tiên đoán và bấm số để gõ)
+2.02
 - Sửa lỗi ứng dụng ưu tiên Anh / Việt không hoạt động với Non-ENG Input.
-- Có thể cần xoá file settings.json cũ để cập nhật.
